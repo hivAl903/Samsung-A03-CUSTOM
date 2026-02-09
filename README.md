@@ -1,5 +1,6 @@
 # Samsung-A03-CUSTOM-ROM
-** Fully test  and work on SM-A035F
+** test  and work on SM-A035F(A035FXXS9CYG1)
+
 1.Extract the .7z to .tar
 
 2.Use Odie to flash rom file in AP.
